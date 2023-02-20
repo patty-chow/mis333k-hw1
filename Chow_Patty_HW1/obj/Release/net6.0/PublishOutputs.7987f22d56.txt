@@ -1,0 +1,8 @@
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\Chow_Patty_HW1.exe
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\libman.json
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\Chow_Patty_HW1.dll
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\Chow_Patty_HW1.deps.json
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\Chow_Patty_HW1.runtimeconfig.json
+C:\Users\patty\source\repos\Chow_Patty_HW1\Chow_Patty_HW1\obj\Release\net6.0\PubTmp\Out\Chow_Patty_HW1.pdb
